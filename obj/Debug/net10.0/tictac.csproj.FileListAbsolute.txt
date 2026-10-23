@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\tictac\bin\Debug\net10.0\tictac.exe
+C:\Users\Dell\OneDrive\Desktop\tictac\bin\Debug\net10.0\tictac.deps.json
+C:\Users\Dell\OneDrive\Desktop\tictac\bin\Debug\net10.0\tictac.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\tictac\bin\Debug\net10.0\tictac.dll
+C:\Users\Dell\OneDrive\Desktop\tictac\bin\Debug\net10.0\tictac.pdb
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\tictac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\tictac.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\tictac.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\tictac.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\tictac.dll
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\refint\tictac.dll
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\tictac.pdb
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\tictac.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\tictac\obj\Debug\net10.0\ref\tictac.dll
